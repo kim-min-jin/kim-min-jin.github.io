@@ -7,16 +7,10 @@ page-layout: full
 
 <h2 class="section-heading">Refereed Journal Articles</h2>
 
-<div class="pub-row">
-<div class="pub-content">
-<strong>Kim, M.</strong>, & McManus, K. (under review). The design, measurement, and analysis of longitudinal, corpus-based second language acquisition research: A systematic review. <em>PsyArXiv preprint</em>. <a href="https://osf.io/preprints/psyarxiv/e5c2a_v1">https://osf.io/preprints/psyarxiv/e5c2a_v1</a>
-</div>
-</div>
-
 
 <div class="pub-row">
 <div class="pub-content">
-Huensch, A., <strong>Kim, M.</strong>, & Crowther, D. (2026). Pronunciation for less commonly taught languages: Teaching beliefs and practices. <em>Language Teaching Research</em>. Online first. <a href="https://doi.org/10.1177/13621688261451407">https://doi.org/10.1177/13621688261451407</a>
+Huensch, A., <strong>Kim, M.</strong>, & Crowther, D. (2026). Pronunciation for less commonly taught languages: Teaching beliefs and practices. <em>Language Teaching Research</em>. Advance online publication. <a href="https://doi.org/10.1177/13621688261451407">https://doi.org/10.1177/13621688261451407</a>
 </div>
 </div>
 
@@ -70,11 +64,19 @@ Qiu, X., Wang, Y., Dartey, E. A., & <strong>Kim, M.</strong> (2024). Interaction
 </div>
 
 
+<h2 class="section-heading">Preprints</h2>
+
+<div class="pub-row">
+<div class="pub-content">
+<strong>Kim, M.</strong>, & McManus, K. (2026). <em>The design, measurement, and analysis of longitudinal, corpus-based second language acquisition research: A systematic review</em> [Preprint]. PsyArXiv. <a href="https://osf.io/preprints/psyarxiv/e5c2a_v1">https://osf.io/preprints/psyarxiv/e5c2a_v1</a>
+</div>
+</div>
+
 <h2 class="section-heading">Chapter in Edited Volume</h2>
 
 <div class="pub-row">
 <div class="pub-content">
-Litzenberg, J., & <strong>Kim, M.</strong> (2024). ELI, ELP, and IEP? Tracing the growth of an industry. In J. Litzenberg (Ed.), <em>From start to future: Innovation in university-based intensive English programs</em>. Multilingual Matters.
+Litzenberg, J., & <strong>Kim, M.</strong> (2024). ELI, ELP or IEP? Tracing the growth of an industry. In J. Litzenberg (Ed.), <em>Innovation in university-based intensive English programs: From start to future</em> (pp. 34–50). Multilingual Matters. <a href="https://doi.org/10.21832/9781800414457-004">https://doi.org/10.21832/9781800414457-004</a>
 </div>
 </div>
 
