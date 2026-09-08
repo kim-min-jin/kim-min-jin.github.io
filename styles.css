@@ -1,0 +1,945 @@
+/* =========================================================
+   COLORS
+========================================================= */
+
+:root {
+  --green: #18453B;
+  --green-dark: #12382F;
+  --green-medium: #2F6B5E;
+  --green-soft: #EDF4F1;
+
+  --navy: #18453B;
+  --text: #37443F;
+  --muted: #75827D;
+
+  --line: #DCE5E1;
+  --background: #FFFFFF;
+}
+
+/* =========================================================
+   GLOBAL
+========================================================= */
+
+body {
+  margin: 0;
+  background: var(--background);
+  color: var(--text);
+
+  font-family: Arial, "Helvetica Neue", sans-serif;
+
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--green);
+}
+
+
+/* =========================================================
+   SHARED WIDTH
+========================================================= */
+
+.site-shell {
+  width: calc(100% - 4rem);
+  max-width: 1280px;
+
+  margin: 0 auto;
+
+  padding-top: 3.8rem;
+  padding-bottom: 3rem;
+
+  box-sizing: border-box;
+}
+
+
+/* =========================================================
+   NAVBAR
+========================================================= */
+
+.navbar {
+  background: #fff !important;
+
+  border-bottom: 1px solid var(--line);
+
+  box-shadow: none !important;
+
+  min-height: 70px;
+}
+
+.navbar .container-fluid {
+  width: calc(100% - 4rem);
+  max-width: 1280px;
+
+  margin: 0 auto;
+
+  padding-left: 0;
+  padding-right: 0;
+}
+
+
+/* brand */
+
+.navbar-brand {
+  font-family: Georgia, "Times New Roman", serif;
+
+  font-size: 1.15rem;
+  font-weight: 600;
+
+  color: var(--navy) !important;
+
+  display: flex;
+  align-items: center;
+
+  gap: 0.75rem;
+}
+
+
+/* MK */
+
+.navbar-brand::before {
+  content: "";
+  display: inline-block;
+
+  width: 34px;
+  height: 34px;
+
+  flex-shrink: 0;
+
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cg fill='none' stroke='%2318453B' stroke-width='4' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M8 32h5M17 23v18M25 15v34M33 21v22M41 27v10M49 30v4'/%3E%3Cpath d='M8 46c8-4 12-11 18-9s9 9 15 7 9-10 15-9'/%3E%3C/g%3E%3Ccircle cx='8' cy='46' r='4' fill='%2318453B'/%3E%3Ccircle cx='26' cy='37' r='4' fill='%2318453B'/%3E%3Ccircle cx='41' cy='44' r='4' fill='%2318453B'/%3E%3Ccircle cx='56' cy='35' r='4' fill='%2318453B'/%3E%3C/svg%3E");
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+/* nav links */
+
+.nav-link {
+  position: relative;
+
+  font-size: 0.82rem;
+
+  color: var(--navy) !important;
+
+  margin-left: 1.2rem;
+
+  padding-bottom: 1rem !important;
+  padding-top: 1rem !important;
+}
+
+.nav-link.active::after,
+.nav-link:hover::after {
+  content: "";
+
+  position: absolute;
+
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  height: 2px;
+
+  background: var(--teal);
+}
+
+
+/* =========================================================
+   COMMON PAGE HEADERS
+========================================================= */
+
+.page-header-grid {
+  display: grid;
+
+  grid-template-columns:
+    minmax(0, 1fr)
+    220px;
+
+  gap: 4rem;
+
+  align-items: start;
+
+  padding-bottom: 2rem;
+}
+
+.page-kicker {
+  font-family: "SFMono-Regular", Consolas, monospace;
+
+  font-size: 0.68rem;
+
+  letter-spacing: 0.18em;
+
+  color: var(--muted);
+
+  margin-bottom: 0.65rem;
+}
+
+.page-title {
+  font-family: Georgia, "Times New Roman", serif;
+
+  font-size: 3.25rem;
+
+  line-height: 1;
+
+  font-weight: 600;
+
+  color: var(--navy);
+
+  margin: 0 0 0.65rem 0;
+}
+
+.page-intro {
+  max-width: 720px;
+
+  color: #61718d;
+
+  font-size: 0.98rem;
+
+  line-height: 1.55;
+}
+
+.side-message {
+  border-left: 1px solid var(--line);
+
+  padding-left: 2rem;
+
+  font-family: "SFMono-Regular", Consolas, monospace;
+
+  font-size: 0.68rem;
+
+  line-height: 1.65;
+
+  letter-spacing: 0.12em;
+
+  color: #557092;
+}
+
+.side-message span {
+  display: block;
+
+  width: 32px;
+  height: 2px;
+
+  background: var(--teal);
+
+  margin-bottom: 1rem;
+}
+
+
+/* =========================================================
+   HOME
+========================================================= */
+
+.home-page {
+  padding-top: 4rem;
+}
+
+.home-grid {
+  display: grid;
+
+  grid-template-columns:
+    minmax(0, 1.3fr)
+    360px;
+
+  gap: 5rem;
+
+  align-items: center;
+}
+
+.home-main {
+  max-width: 700px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap');
+
+.hero-name {
+  font-family: "Newsreader", serif;
+  font-size: 4.2rem;
+  line-height: 0.98;
+  font-weight: 500;
+  letter-spacing: -0.03em;
+  color: var(--navy);
+  margin: 0 0 1rem;
+}
+
+.hero-position {
+  font-family: "Newsreader", serif;
+
+  font-size: 1.2rem;
+
+  line-height: 1.3;
+
+  font-weight: 600;
+
+  color: var(--navy);
+
+  margin-bottom: 0.65rem;
+}
+
+.hero-affiliation {
+  font-size: 0.93rem;
+
+  line-height: 1.6;
+
+  color: #60718f;
+
+  margin-bottom: 1.7rem;
+}
+
+.hero-bio a,
+.hero-affiliation a {
+  color: #18453B;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.hero-bio a:hover,
+.hero-affiliation a:hover {
+  text-decoration: underline;
+}
+
+.hero-bio {
+  max-width: 670px;
+
+  font-size: 0.95rem;
+
+  line-height: 1.72;
+}
+
+.hero-bio p {
+  margin-bottom: 1rem;
+}
+
+
+/* =========================================================
+   Contact + Social Icons
+========================================================= */
+
+.contact-block {
+  margin-top: 1.8rem;
+}
+
+.contact-line {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+
+  font-family: "SFMono-Regular", Consolas, monospace;
+  font-size: 0.78rem;
+
+  color: var(--muted);
+}
+
+.contact-line a {
+  color: var(--green);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.contact-line a:hover {
+  text-decoration: underline;
+}
+
+.social-icons {
+  display: flex;
+  gap: 1rem;
+  margin-top: 0.7rem;
+}
+
+.social-icons a {
+  color: var(--green);
+  font-size: 1.15rem;
+  line-height: 1;
+
+  transition:
+    transform 0.15s ease,
+    opacity 0.15s ease;
+}
+
+.social-icons a:hover {
+  color: var(--green);
+  transform: translateY(-2px);
+  opacity: 0.75;
+}
+
+.contact-info {
+  position: relative;
+  z-index: 3;
+  margin-top: 2.4rem;
+  width: 280px;
+  margin-left: auto;
+}
+
+.social-links.labeled {
+  gap: 0 !important;
+}
+
+.social-links.labeled a::before {
+  content: none !important;
+  display: none !important;
+}
+
+.social-links.labeled a {
+  margin: 0 !important;
+  padding: 0 !important;
+  border: none !important;
+}
+
+
+/* portrait */
+
+.home-side {
+  width: 100%;
+}
+
+.portrait-frame {
+  position: relative;
+  width: 280px;
+  margin-left: auto;
+}
+
+.portrait-frame img {
+  position: relative;
+
+  z-index: 2;
+
+  width: 100%;
+
+  aspect-ratio: 4 / 5;
+
+  object-fit: cover;
+
+  display: block;
+}
+
+.portrait-accent {
+  position: absolute;
+
+  z-index: 1;
+
+  width: 74%;
+  height: 78%;
+
+  right: -22px;
+  bottom: -22px;
+
+  background: #18453B;
+}
+
+
+/* leadership */
+
+.leadership {
+  margin-top: 2.5rem;
+
+  padding-top: 1.2rem;
+
+  border-top: 1px solid var(--line);
+
+  font-family: "SFMono-Regular", Consolas, monospace;
+
+  font-size: 0.72rem;
+
+  line-height: 1.7;
+
+  color: #546785;
+}
+
+.leadership .office {
+  margin-top: 0.65rem;
+
+  color: var(--muted);
+}
+
+
+/* bottom */
+
+.home-bottom {
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: flex-end;
+
+  margin-top: 4rem;
+
+  padding-top: 1.2rem;
+
+  border-top: 1px solid var(--line);
+}
+
+.bottom-tagline,
+.bottom-affiliation,
+.page-footer-line {
+  font-family: "SFMono-Regular", Consolas, monospace;
+
+  font-size: 0.65rem;
+
+  letter-spacing: 0.12em;
+
+  color: #617494;
+}
+
+.bottom-tagline span,
+.page-footer-line span {
+  display: inline-block;
+
+  width: 34px;
+  height: 2px;
+
+  background: var(--teal);
+
+  margin-right: 1rem;
+
+  vertical-align: middle;
+}
+
+
+/* =========================================================
+   RESEARCH
+========================================================= */
+
+.research-row.image-layout {
+  display: grid;
+  grid-template-columns: 110px minmax(0, 1fr);
+  gap: 1.5rem;
+  align-items: center;
+  padding: 1.6rem 0;
+  border-top: 1px solid var(--line);
+}
+
+.research-image {
+  width: 96px;
+  height: 96px;
+  background: var(--green-soft);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.research-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.research-row.image-layout .row-content h2 {
+  margin: 0 0 0.35rem 0;
+}
+
+.research-row.image-layout .row-content p {
+  margin: 0;
+  max-width: 850px;
+}
+
+/* bars */
+
+.bars {
+  display: flex;
+
+  align-items: flex-end;
+
+  gap: 5px;
+
+  height: 34px;
+}
+
+.bars span {
+  width: 4px;
+
+  background: var(--teal);
+}
+
+.bars span:nth-child(1) {
+  height: 14px;
+}
+
+.bars span:nth-child(2) {
+  height: 23px;
+}
+
+.bars span:nth-child(3) {
+  height: 32px;
+}
+
+.bars span:nth-child(4) {
+  height: 20px;
+}
+
+
+/* SLA circles */
+
+.circle-icon {
+  position: relative;
+}
+
+.circle-icon span {
+  position: absolute;
+
+  width: 30px;
+  height: 30px;
+
+  border: 2px solid var(--teal);
+
+  border-radius: 50%;
+}
+
+.circle-icon span:first-child {
+  left: 17px;
+  top: 18px;
+}
+
+.circle-icon span:last-child {
+  right: 17px;
+  bottom: 18px;
+}
+
+
+/* tech icon */
+
+.tech-icon div {
+  width: 32px;
+  height: 22px;
+
+  border: 2px solid var(--teal);
+
+  position: relative;
+}
+
+.tech-icon div::after {
+  content: "";
+
+  position: absolute;
+
+  width: 38px;
+  height: 2px;
+
+  background: var(--teal);
+
+  left: -5px;
+  bottom: -7px;
+}
+
+
+/* AI */
+
+.ai-icon {
+  font-family: "SFMono-Regular", Consolas, monospace;
+
+  font-size: 1rem;
+
+  font-weight: 700;
+}
+
+
+/* research text */
+
+.row-content h2 {
+  font-family: Georgia, "Times New Roman", serif;
+
+  font-size: 1.3rem;
+
+  color: var(--navy);
+
+  margin: 0 0 0.25rem;
+}
+
+.row-content p {
+  max-width: 850px;
+
+  margin: 0;
+
+  font-size: 0.92rem;
+
+  line-height: 1.55;
+
+  color: #5a6b89;
+}
+
+.anchorjs-link,
+.header-section-number,
+.quarto-section-identifier {
+  display: none !important;
+}
+
+/* =========================================================
+   SECTION HEADING
+========================================================= */
+
+.section-heading {
+  font-family: Georgia, "Times New Roman", serif;
+
+  color: var(--navy);
+
+  font-size: 1.25rem;
+
+  margin-top: 1rem;
+  margin-bottom: 0;
+
+  padding-bottom: 0.7rem;
+
+  border-bottom: 1px solid var(--line);
+}
+
+
+/* =========================================================
+   PUBLICATIONS
+========================================================= */
+
+.pub-row {
+  display: block;
+  padding: 1.25rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.pub-content a {
+  color: var(--green);
+  text-decoration: none;
+}
+
+.pub-content a:hover {
+  text-decoration: underline;
+}
+
+.publication-note {
+  margin-top: 2rem;
+  font-size: 0.82rem;
+  color: var(--muted);
+  font-style: italic;
+}
+
+.pub-links {
+  margin-top: 0.35rem;
+
+  font-family: "SFMono-Regular", Consolas, monospace;
+
+  font-size: 0.69rem;
+
+  color: var(--teal);
+}
+
+.pub-links a {
+  color: var(--teal);
+
+  border-bottom: 1px solid transparent;
+}
+
+.pub-links a:hover {
+  border-bottom-color: var(--teal);
+}
+
+.pub-links span {
+  padding: 0 0.4rem;
+
+  color: #99a3ae;
+}
+
+
+/* =========================================================
+   TEACHING
+========================================================= */
+
+.course-row {
+  display: grid;
+  grid-template-columns: 110px minmax(0, 1fr) 140px;
+  gap: 1rem;
+  align-items: center;
+  padding: 1.05rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.course-code {
+  background: var(--teal-soft);
+
+  color: var(--teal);
+
+  padding: 0.4rem 0.55rem;
+
+  font-family: "SFMono-Regular", Consolas, monospace;
+
+  font-size: 0.72rem;
+
+  text-align: center;
+}
+
+.course-info {
+  font-size: 0.9rem;
+
+  color: var(--navy);
+}
+
+.course-note {
+  margin-top: 0.15rem;
+
+  font-size: 0.75rem;
+
+  color: var(--muted);
+}
+
+.course-place {
+  font-family: "SFMono-Regular", Consolas, monospace;
+
+  font-size: 0.7rem;
+
+  text-align: right;
+
+  color: #61728e;
+}
+
+
+/* =========================================================
+   PAGE FOOTER LINE
+========================================================= */
+
+.page-footer-line {
+  margin-top: 2.5rem;
+
+  padding-top: 1rem;
+
+  border-top: 1px solid var(--line);
+}
+
+
+/* =========================================================
+   REMOVE QUARTO DEFAULT WIDTH
+========================================================= */
+
+.page-columns {
+  display: block !important;
+}
+
+#quarto-content,
+#quarto-content main,
+main.content {
+  width: 100% !important;
+
+  max-width: none !important;
+
+  margin: 0 !important;
+
+  padding: 0 !important;
+}
+
+.quarto-title-block {
+  display: none;
+}
+
+
+/* =========================================================
+   TABLET
+========================================================= */
+
+@media (max-width: 950px) {
+
+  .site-shell,
+  .navbar .container-fluid {
+    width: calc(100% - 3rem);
+  }
+
+  .home-grid {
+    grid-template-columns:
+      minmax(0, 1fr)
+      280px;
+
+    gap: 3rem;
+  }
+
+  .portrait-frame {
+    width: 260px;
+  }
+
+  .hero-name {
+    font-size: 3.4rem;
+  }
+
+  .page-header-grid {
+    grid-template-columns:
+      minmax(0, 1fr)
+      170px;
+  }
+}
+
+
+/* =========================================================
+   MOBILE
+========================================================= */
+
+@media (max-width: 700px) {
+
+  .site-shell,
+  .navbar .container-fluid {
+    width: calc(100% - 2rem);
+  }
+
+  .home-grid {
+    grid-template-columns: 1fr;
+
+    gap: 3rem;
+  }
+
+  .portrait-frame {
+    width: 240px;
+
+    margin-left: 0;
+  }
+
+  .hero-name {
+    font-size: 3rem;
+  }
+
+  .hero-position {
+    font-size: 1.25rem;
+  }
+
+  .page-header-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .side-message {
+    display: none;
+  }
+
+  .research-row {
+    grid-template-columns:
+      36px
+      64px
+      minmax(0, 1fr);
+
+    gap: 0.8rem;
+  }
+
+  .research-icon {
+    width: 60px;
+    height: 60px;
+  }
+
+  .course-row {
+    grid-template-columns:
+      34px
+      95px
+      minmax(0, 1fr);
+  }
+
+  .course-place {
+    grid-column: 3;
+
+    text-align: left;
+
+    margin-top: -0.5rem;
+  }
+
+  .home-bottom {
+    flex-direction: column;
+
+    align-items: flex-start;
+
+    gap: 1rem;
+  }
+}
