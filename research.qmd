@@ -1,0 +1,70 @@
+---
+title: ""
+page-layout: full
+---
+
+<div class="site-shell">
+
+<h2 class="section-heading">Research Areas</h2>
+
+
+<div class="research-row image-layout">
+
+<div class="research-image">
+<img src="images/research-corpus.png" alt="Corpus-informed language research">
+</div>
+
+<div class="row-content">
+<h2>Corpus Linguistics</h2>
+<p>I use corpora, computational methods, and NLP tools to investigate patterns of language use and variation across English, Korean, and other less commonly taught languages. My work spans learner language, academic discourse, and disciplinary communication, with the goal of informing language learning, teaching, and research.</p>
+</div>
+
+</div>
+
+
+<div class="research-row image-layout">
+
+<div class="research-image">
+<img src="images/research-development.png" alt="Learner language and development">
+</div>
+
+<div class="row-content">
+<h2>Second Language Acquisition</h2>
+<p>I investigate how second language learners develop and use language across proficiency levels, time, tasks, and modalities, with attention to developmental patterns, variability, and individual learner trajectories.</p>
+</div>
+
+</div>
+
+
+<div class="research-row image-layout">
+
+<div class="research-image">
+<img src="images/research-ai-learning.png" alt="AI-mediated language learning and assessment">
+</div>
+
+<div class="row-content">
+<h2>AI-Mediated Language Learning & Assessment</h2>
+<p>I investigate how generative AI, speech technologies, and other computational tools can mediate language learning, feedback, interaction, and assessment.</p>
+</div>
+
+</div>
+
+
+<div class="research-row image-layout">
+
+<div class="research-image">
+<img src="images/research-critical-ai.png" alt="Critical and research-informed AI use">
+</div>
+
+<div class="row-content">
+<h2>Critical & Research-Informed AI Use</h2>
+<p>I explore how AI can be used critically and responsibly in language education, with an emphasis on SLA theory, evidence-based practice, and the evaluation and verification of AI-generated feedback.</p>
+</div>
+
+</div>
+
+
+<div class="page-footer-line">
+
+
+</div>

@@ -1,0 +1,89 @@
+---
+title: ""
+page-layout: full
+---
+
+<div class="site-shell">
+
+<h2 class="section-heading">Refereed Journal Articles</h2>
+
+<div class="pub-row">
+<div class="pub-content">
+<strong>Kim, M.</strong>, & McManus, K. (under review). The design, measurement, and analysis of longitudinal, corpus-based second language acquisition research: A systematic review. <em>PsyArXiv preprint</em>. <a href="https://osf.io/preprints/psyarxiv/e5c2a_v1">https://osf.io/preprints/psyarxiv/e5c2a_v1</a>
+</div>
+</div>
+
+
+<div class="pub-row">
+<div class="pub-content">
+Huensch, A., <strong>Kim, M.</strong>, & Crowther, D. (2026). Pronunciation for less commonly taught languages: Teaching beliefs and practices. <em>Language Teaching Research</em>. Online first. <a href="https://doi.org/10.1177/13621688261451407">https://doi.org/10.1177/13621688261451407</a>
+</div>
+</div>
+
+
+<div class="pub-row">
+<div class="pub-content">
+<strong>Kim, M.</strong> (2026). Custom GPT as mediator: Dynamic Assessment with beginner KFL learners. <em>Language Learning & Technology, 30</em>(1), 1–27. <a href="https://doi.org/10.64152/10125/73669">https://doi.org/10.64152/10125/73669</a>
+</div>
+</div>
+
+
+<div class="pub-row">
+<div class="pub-content">
+<strong>Kim, M.</strong>, & Lu, X. (2024). L2 English speaking syntactic complexity: Data preprocessing issues, reliability of automated analysis, and the effects of proficiency, L1 background, and topic. <em>The Modern Language Journal, 108</em>(1), 270–296. <a href="https://doi.org/10.1111/modl.12907">https://doi.org/10.1111/modl.12907</a>
+</div>
+</div>
+
+
+<div class="pub-row">
+<div class="pub-content">
+<strong>Kim, M.</strong>, & Lu, X. (2024). Exploring the potential of using ChatGPT for rhetorical move-step analysis: The impact of prompt refinement, few-shot learning, and fine-tuning. <em>Journal of English for Academic Purposes, 71</em>, 101422. <a href="https://doi.org/10.1016/j.jeap.2024.101422">https://doi.org/10.1016/j.jeap.2024.101422</a>
+</div>
+</div>
+
+
+<div class="pub-row">
+<div class="pub-content">
+<strong>Kim, M.</strong>, Qiu, X., & Wang, Y. (2024). Interrater agreement in genre analysis: Insights from a methodological review and a comparison of three measures. <em>Research Methods in Applied Linguistics, 3</em>(1), 100097. <a href="https://doi.org/10.1016/j.rmal.2024.100097">https://doi.org/10.1016/j.rmal.2024.100097</a>
+</div>
+</div>
+
+
+<div class="pub-row">
+<div class="pub-content">
+Qiu, X., Wang, Y., Dartey, E. A., & <strong>Kim, M.</strong> (2024). Interactional metadiscourse in expert and student disciplinary writing: Exploring intrageneric and functional variation. <em>English for Specific Purposes, 73</em>, 124–140. <a href="https://doi.org/10.1016/j.esp.2023.10.007">https://doi.org/10.1016/j.esp.2023.10.007</a>
+</div>
+</div>
+
+
+<div class="pub-row">
+<div class="pub-content">
+<strong>Kim, M.</strong>, & Oh, S. Y. (2023). L2 writers’ use of signaling nouns: A focus on modification and L2 proficiency. <em>Korean Journal of English Language and Linguistics, 23</em>, 895–912. <a href="https://doi.org/10.15738/kjell.23..202310.895">https://doi.org/10.15738/kjell.23..202310.895</a>
+</div>
+</div>
+
+
+<div class="pub-row">
+<div class="pub-content">
+<strong>Kim, M.</strong>, & Oh, S. Y. (2019). Three Korean EFL middle school students’ use of online resources in L2 writing. <em>Korean Journal of Applied Linguistics, 35</em>(4), 75–103. <a href="https://doi.org/10.17154/kjal.2019.12.35.4.75">https://doi.org/10.17154/kjal.2019.12.35.4.75</a>
+</div>
+</div>
+
+
+<h2 class="section-heading">Chapter in Edited Volume</h2>
+
+<div class="pub-row">
+<div class="pub-content">
+Litzenberg, J., & <strong>Kim, M.</strong> (2024). ELI, ELP, and IEP? Tracing the growth of an industry. In J. Litzenberg (Ed.), <em>From start to future: Innovation in university-based intensive English programs</em>. Multilingual Matters.
+</div>
+</div>
+
+
+<div class="publication-note">
+For access to any of these publications, please feel free to contact me.
+</div>
+
+
+<div class="page-footer-line">
+
+</div>

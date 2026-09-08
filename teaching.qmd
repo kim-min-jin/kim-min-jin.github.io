@@ -1,0 +1,91 @@
+---
+title: ""
+page-layout: full
+---
+
+<div class="site-shell">
+
+<h2 class="section-heading">Selected Courses</h2>
+
+
+<div class="course-row">
+
+<div class="course-code">LLT 841</div>
+
+<div class="course-info">
+<strong>AI for Language Teaching and Research</strong>
+</div>
+
+<div class="course-place">at MSU</div>
+
+</div>
+
+
+<div class="course-row">
+
+<div class="course-code">KOREAN</div>
+
+<div class="course-info">
+<strong>Korean Language Courses, Beginning to Advanced</strong>
+</div>
+
+<div class="course-place">at MSU & Ole Miss</div>
+
+</div>
+
+
+<div class="course-row">
+
+<div class="course-code">APLNG 578</div>
+
+<div class="course-info">
+<strong>Computational and Statistical Methods for Corpus Analysis</strong>
+<div class="course-note">Co-Instructor</div>
+</div>
+
+<div class="course-place">at PSU</div>
+
+</div>
+
+
+<div class="course-row">
+
+<div class="course-code">APLNG 588</div>
+
+<div class="course-info">
+<strong>Design and Research of Technology-Mediated Language Learning</strong>
+<div class="course-note">Co-Instructor</div>
+</div>
+
+<div class="course-place">at PSU</div>
+
+</div>
+
+
+<div class="course-row">
+
+<div class="course-code">ESL 116G</div>
+
+<div class="course-info">
+<strong>ESL Composition for Academic Disciplines</strong>
+</div>
+
+<div class="course-place">at PSU</div>
+
+</div>
+
+
+<div class="course-row">
+
+<div class="course-code">ESL 015</div>
+
+<div class="course-info">
+<strong>Composition for American Communication II</strong>
+</div>
+
+<div class="course-place">at PSU</div>
+
+</div>
+
+
+</div>

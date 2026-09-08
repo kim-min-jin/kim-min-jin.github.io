@@ -1,0 +1,21 @@
+---
+title: "Curriculum Vitae"
+---
+
+A downloadable PDF version of my CV will be available here.
+
+## Current appointment
+
+**Korea Foundation Assistant Professor**  
+Department of Linguistics, Languages, and Cultures  
+Michigan State University
+
+## Education
+
+**Ph.D. in Applied Linguistics**, The Pennsylvania State University, 2025
+
+## Research areas
+
+Second language acquisition · Corpus linguistics · AI-mediated language learning · Language assessment · Korean language education
+
+> Add your PDF to the website folder as `Minjin_Kim_CV.pdf`, then replace this note with a download button.

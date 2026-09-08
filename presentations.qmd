@@ -1,0 +1,103 @@
+---
+title: ""
+page-layout: full
+---
+
+<div class="site-shell">
+
+<h2 class="section-heading">Conference Presentations</h2>
+
+<div class="pub-row">
+<div class="pub-content">
+<strong>Kim, M.</strong> (2026, March 21–24). <em>Variable but patterned CAF development: A CDST approach across modalities and proficiency</em>. [Paper presentation]. American Association for Applied Linguistics (AAAL 2026), Chicago, IL, USA.
+</div>
+</div>
+
+<div class="pub-row">
+<div class="pub-content">
+Huensch, A., <strong>Kim, M.</strong>, & Crowther, D. (2026, March 21–24). <em>Pronunciation instruction for less commonly taught languages: The beliefs and practices of instructors</em>. [Paper presentation]. American Association for Applied Linguistics (AAAL 2026), Chicago, IL, USA.
+</div>
+</div>
+
+<div class="pub-row">
+<div class="pub-content">
+<strong>Kim, M.</strong> (2025, June 18–20). <em>Enhancing communicative practice in KFL: A fine-tuned ChatGPT model for AI-mediated interaction</em>. [Paper presentation]. American Association of Teachers of Korean (AATK) 30th Annual Conference and Professional Development Workshop, Honolulu, HI, USA.
+</div>
+</div>
+
+<div class="pub-row">
+<div class="pub-content">
+<strong>Kim, M.</strong>, & McManus, K. (2024, September 3–5). <em>Design, measurement, and analysis in longitudinal corpus-based SLA research: A systematic review</em>. [Paper presentation]. The 7th Learner Corpus Research Conference, Tartu, Estonia.
+</div>
+</div>
+
+<div class="pub-row">
+<div class="pub-content">
+<strong>Kim, M.</strong> (2024, June 3–5). <em>Tracing the development of complexity, accuracy, and fluency in L2 speaking and writing: A dynamic usage-based approach</em>. [Paper presentation]. The 5th International Conference Thinking, Doing, Learning: Usage-based Perspectives on Second Language Learning (TDL5), Kolding, Denmark.
+</div>
+</div>
+
+<div class="pub-row">
+<div class="pub-content">
+Xia, Y., & <strong>Kim, M.</strong> (2024, May 21–25). <em>Mediating ESL learners’ use of digital reference tools to deepen their vocabulary knowledge in academic writing</em>. [Paper presentation]. Computer Assisted Language Instruction Consortium (CALICO 2024), Pittsburgh, PA, USA.
+</div>
+</div>
+
+<div class="pub-row">
+<div class="pub-content">
+<strong>Kim, M.</strong> (2024, March 22). <em>Exploring the potential of using ChatGPT for rhetorical move-step analysis: The impact of prompt refinement, few-shot learning, and fine-tuning</em>. [Poster presentation]. Graduate Exhibition at Penn State, State College, PA, USA.
+</div>
+</div>
+
+<div class="pub-row">
+<div class="pub-content">
+Litzenberg, J., & <strong>Kim, M.</strong> (2024, March 16–19). <em>Intensive English and applied linguistics: Tracing the growth of an industry</em>. [Roundtable]. American Association for Applied Linguistics (AAAL 2024), Houston, TX, USA.
+</div>
+</div>
+
+<div class="pub-row">
+<div class="pub-content">
+<strong>Kim, M.</strong> (2024, March 16–19). <em>Automated disfluency annotation in second language learners’ spoken data using a large language model</em>. [Paper presentation]. American Association for Applied Linguistics (AAAL 2024), Houston, TX, USA.
+</div>
+</div>
+
+<div class="pub-row">
+<div class="pub-content">
+Lee, S., & <strong>Kim, M.</strong> (2024, March 16–19). <em>Improving accuracy of second language speech transcription by fine-tuning the GPT-3 model</em>. [Paper presentation]. American Association for Applied Linguistics (AAAL 2024), Houston, TX, USA.
+</div>
+</div>
+
+<div class="pub-row">
+<div class="pub-content">
+<strong>Kim, M.</strong>, Qiu, X., & Wang, Y. (2023, March 17–21). <em>Interrater reliability testing in genre analysis: Insights from three measures</em>. [Paper presentation]. American Association for Applied Linguistics (AAAL 2023), Portland, OR, USA.
+</div>
+</div>
+
+<div class="pub-row">
+<div class="pub-content">
+<strong>Kim, M.</strong> (2023, February 10). <em>Interrater reliability testing in genre analysis: Insights from three measures</em>. [Paper presentation]. Applied Linguistics Roundtable at Penn State, State College, PA, USA.
+</div>
+</div>
+
+<div class="pub-row">
+<div class="pub-content">
+<strong>Kim, M.</strong> (2022, May 31–June 4). <em>Rhetorical move annotation tool use for academic writing class</em>. [Paper presentation]. Computer Assisted Language Instruction Consortium (CALICO 2022), Seattle, WA, USA.
+</div>
+</div>
+
+<div class="pub-row">
+<div class="pub-content">
+<strong>Kim, M.</strong> (2022, March 22). <em>Measuring syntactic complexity development in EFL learners’ spoken corpus</em>. [Paper presentation]. TESOL 2022 Convention Graduate Student Research Forum, Pittsburgh, PA, USA.
+</div>
+</div>
+
+
+<h2 class="section-heading">Invited Talks</h2>
+
+<div class="pub-row">
+<div class="pub-content">
+Lu, X., & <strong>Kim, M.</strong> (2024, December 7–9). <em>Advanced techniques in corpus linguistics</em>. [Invited talk]. Guangdong University of Foreign Studies, Guangzhou, China.
+</div>
+</div>
+
+</div>
