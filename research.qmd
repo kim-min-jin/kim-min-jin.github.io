@@ -16,7 +16,7 @@ page-layout: full
 
 <div class="row-content">
 <h2>Corpus Linguistics</h2>
-<p>I use corpora, computational methods, and NLP tools to investigate patterns of language use and variation across English, Korean, and other less commonly taught languages. My work spans learner language, academic discourse, and disciplinary communication, with the goal of informing language learning, teaching, and research.</p>
+<p>I use corpus-based and computational approaches to examine language use across English and Korean, with interests in learner language, academic discourse, and disciplinary communication. I am also interested in developing corpus-informed resources for language teaching and research and in extending these approaches to less commonly taught languages.</p>
 </div>
 
 </div>
