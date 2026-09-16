@@ -315,6 +315,10 @@ a:hover {
   margin-bottom: 1rem;
 }
 
+.kf-title {
+  font-weight: 600;
+  color: #2f6b5d;
+}
 
 /* =========================================================
    Contact + Social Icons
@@ -457,6 +461,193 @@ a:hover {
 }
 
 
+/*=============
+PhD recruitment
+================*/
+
+.phd-card-msu {
+  position: relative;
+  overflow: hidden;
+
+  margin-top: 2.8rem;
+  padding: 1.45rem 1.5rem 1.3rem 1.5rem;
+
+  border: 1px solid rgba(24, 69, 59, 0.12);
+  border-radius: 18px;
+
+  background: linear-gradient(
+    135deg,
+    rgba(24, 69, 59, 0.08) 0%,
+    rgba(24, 69, 59, 0.04) 45%,
+    rgba(255, 255, 255, 1) 100%
+  );
+
+  box-shadow: 0 10px 24px rgba(24, 69, 59, 0.06);
+}
+
+.phd-card-msu::before {
+  content: "";
+  position: absolute;
+  top: -28px;
+  right: -28px;
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  background: rgba(24, 69, 59, 0.07);
+}
+
+.phd-card-msu::after {
+  content: "";
+  position: absolute;
+  bottom: -36px;
+  right: 36px;
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  background: rgba(24, 69, 59, 0.04);
+}
+
+.phd-card-kicker {
+  position: relative;
+  z-index: 1;
+
+  display: inline-block;
+  margin-bottom: 0.65rem;
+  padding: 0.26rem 0.55rem;
+
+  border-radius: 999px;
+  background: rgba(24, 69, 59, 0.10);
+
+  font-family: "IBM Plex Mono", "SFMono-Regular", Consolas, monospace;
+  font-size: 0.66rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #18453b;
+}
+
+.phd-card-title {
+  position: relative;
+  z-index: 1;
+
+  margin-bottom: 0.9rem;
+
+  font-family: "Newsreader", Georgia, serif;
+  font-size: 1.32rem;
+  line-height: 1.28;
+  font-weight: 500;
+  color: #102a23;
+  max-width: 760px;
+}
+
+.phd-card-bullets {
+  position: relative;
+  z-index: 1;
+
+  margin: 0 0 0.95rem 1.1rem;
+  padding: 0;
+
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: #1d1d1d;
+}
+
+.phd-card-bullets li {
+  margin-bottom: 0.25rem;
+}
+
+.phd-card-details {
+  position: relative;
+  z-index: 1;
+
+  margin-bottom: 0.9rem;
+
+  font-size: 0.82rem;
+  line-height: 1.55;
+  color: #4d5a56;
+  max-width: 850px;
+}
+
+.phd-card-meta {
+  position: relative;
+  z-index: 1;
+
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.7rem 1rem;
+
+  margin-top: 0.2rem;
+  padding-top: 0.8rem;
+
+  border-top: 1px solid rgba(24, 69, 59, 0.12);
+
+  font-size: 0.78rem;
+  line-height: 1.5;
+  color: #2e3b37;
+}
+
+.phd-card-meta strong {
+  display: block;
+  margin-bottom: 0.08rem;
+  color: #18453b;
+}
+
+.phd-card-footer {
+  position: relative;
+  z-index: 1;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+
+  margin-top: 1rem;
+}
+
+.phd-card-button {
+  display: inline-block;
+  padding: 0.55rem 0.9rem;
+
+  border-radius: 999px;
+  background: #18453b;
+  color: #ffffff !important;
+
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-decoration: none;
+  border: none;
+}
+
+.phd-card-button:hover {
+  background: #12352d;
+  text-decoration: none;
+}
+
+.phd-card-contact {
+  font-size: 0.77rem;
+  line-height: 1.45;
+  color: #5a6662;
+}
+
+@media (max-width: 760px) {
+  .phd-card-msu {
+    padding: 1.2rem 1.1rem 1.15rem 1.1rem;
+  }
+
+  .phd-card-title {
+    font-size: 1.15rem;
+  }
+
+  .phd-card-meta {
+    grid-template-columns: 1fr;
+  }
+
+  .phd-card-footer {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}
 /* bottom */
 
 .home-bottom {
@@ -498,6 +689,8 @@ a:hover {
 
   vertical-align: middle;
 }
+
+
 
 
 /* =========================================================

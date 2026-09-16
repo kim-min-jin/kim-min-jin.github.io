@@ -16,7 +16,7 @@ page-layout: full
 
 <div class="hero-bio">
 
-I am an Assistant Professor of [Second Language Studies](https://sls.msu.edu/), [TESOL](https://lilac.msu.edu/tesol/), and [Korean](https://lilac.msu.edu/korean/) in the [Department of Linguistics, Languages, and Cultures](https://lilac.msu.edu/) at Michigan State University. I serve as Director of the Korean Program and Co-Director of the [Second Language Studies Corpus Lab](https://corpus.cal.msu.edu/). I earned my Ph.D. in Applied Linguistics from Pennsylvania State University.
+I am an Assistant Professor of [Second Language Studies](https://sls.msu.edu/), [TESOL](https://lilac.msu.edu/tesol/), and [Korean](https://lilac.msu.edu/korean/) in the [Department of Linguistics, Languages, and Cultures](https://lilac.msu.edu/) at Michigan State University. I hold the title of <span class="kf-title">Korea Foundation Assistant Professor</span>. I serve as Director of the Korean Program and Co-Director of the [Second Language Studies Corpus Lab](https://corpus.cal.msu.edu/). I earned my Ph.D. in Applied Linguistics from Pennsylvania State University.
 
 My research focuses on corpus linguistics, second language acquisition, and language learning and technology, with a particular interest in generative AI. More broadly, I examine how second language learners use language and how their language develops over time, and I explore how computational methods and AI-assisted technologies can support language learning, teaching, research, and assessment, as well as how AI can be used critically and in research-informed ways in language education.
 
@@ -48,6 +48,27 @@ My research focuses on corpus linguistics, second language acquisition, and lang
 
 </div>
 
+</div>
+
+<div class="phd-card-msu">
+<div class="phd-card-kicker">Michigan State University · Second Language Studies · PhD Student Recruitment · Fall 2027</div>
+<div class="phd-card-title">I am looking to work with a new Ph.D. student beginning in Fall 2027.</div>
+Research interests may include:
+
+<ul class="phd-card-bullets">
+<li>Corpus linguistics and second language learning</li>
+<li>AI-mediated language learning and assessment</li>
+<li>Korean language learning, teaching, and research</li>
+</ul>
+<div class="phd-card-details">Applicants from applied linguistics, second language studies, language education, or related fields are welcome. Experience with quantitative, corpus-based, or computational methods is a plus but not required.</div>
+<div class="phd-card-meta">
+<div><strong>Funding</strong> Graduate assistantship funding is available through the SLS Program.</div>
+<div><strong>Deadline</strong> December 4, 2026, 5:00 p.m.</div>
+</div>
+<div class="phd-card-footer">
+<a class="phd-card-button" href="https://sls.msu.edu/admissions/" target="_blank">SLS Admissions</a>
+<div class="phd-card-contact">If our research interests align, feel free to email me.</div>
+</div>
 </div>
 
 <div class="home-bottom">
